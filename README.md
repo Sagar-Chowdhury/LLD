@@ -8,8 +8,8 @@
 This repository contains resources to learn Low Level Design (LLD) / Object Oriented Design (OOD) and prepare for interviews.
 
 ## 📌 Fundamental Concepts
-- [Basics OOP Concepts](https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code)
-- [SOLID Principles with Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+- [Basics OOP Concepts](https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code) [ Done✅  ]
+- [SOLID Principles with Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) [ Done✅  ]
 - [SOLID Principles with Code](https://blog.algomaster.io/p/solid-principles-explained-with-code)
 - [DRY Principle](https://blog.algomaster.io/p/082450d8-0e7b-4447-a8dc-b7308e45f048)
 - [YAGNI Principle](https://blog.algomaster.io/p/8c3c7da7-885b-4a9c-a6e4-70ee02de4772)
